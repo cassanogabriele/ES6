@@ -1,0 +1,59 @@
+.imgFilter{
+	filter: brightness(0.85);
+	height: 800px !important;
+	margin-top: -125px !important;
+}
+
+html{ scroll-behavior: smooth; }
+
+body{ background: #CF9F8; }
+
+.cote{ 
+	color: #FFFF00; 
+	font-size:25px;
+} 
+
+.star{ text-align: center; }
+
+#back-to-top{
+	width:40px;
+	height:40px;
+}
+
+.card-img-top{
+	margin-top:20px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	width: 220px !important;
+	height: 295px !important;
+}
+
+table.dataTable.no-footer{ border-bottom: none !important; }
+
+#title-site{ font-family: 'Inconsolata', monospace; }
+
+.title-presentation{
+	font-family: 'Inconsolata', monospace;
+	margin-top: 35px;
+	font-size:85px;
+}
+
+.paragraph{
+	margin-top:255px !important;
+	color: red !important;
+	background-color: black !important;
+	border-radius: 10px !important;
+	height: 35px !important;
+	opacity: 0.8;
+}
+
+.navbar{ 
+	background-color: black !important; 
+	border-bottom:6px solid white !important;
+}
+
+#title{ 
+	margin-top: 10px;
+	text-align:center; 	
+}
